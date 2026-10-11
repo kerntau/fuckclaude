@@ -8,7 +8,7 @@
 [![Astro](https://img.shields.io/badge/Astro-7-FF5D01?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Strict-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Static](https://img.shields.io/badge/Output-Static-111111?style=for-the-badge)](https://docs.astro.build/en/basics/project-structure/)
-[![License](https://img.shields.io/badge/License-See%20LICENSE-555555?style=for-the-badge)](LICENSE)
+![License](https://img.shields.io/badge/License-See%20repository-555555?style=for-the-badge)
 
 </div>
 
@@ -100,4 +100,4 @@ pnpm preview
 
 ## 09. LICENSE // 许可证
 
-以仓库中的 LICENSE 文件为准。本项目独立于 Anthropic/Claude。
+仓库当前未附 LICENSE 文件，分发前请补充许可证并同步更新本节。本项目独立于 Anthropic/Claude。
